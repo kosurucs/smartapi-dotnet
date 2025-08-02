@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\components\\pages\\placeorder.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\components\\pages\\placeorder.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\auth\\authmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\auth\\authmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4645FB9-771D-41F6-B8ED-DC120390FD20}|AmoSave.Broking.UI.Auth\\AmoSave.Broking.UI.Auth.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui.auth\\authmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4645FB9-771D-41F6-B8ED-DC120390FD20}|AmoSave.Broking.UI.Auth\\AmoSave.Broking.UI.Auth.csproj|solutionrelative:amosave.broking.ui.auth\\authmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\auth\\customauthstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\auth\\customauthstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4645FB9-771D-41F6-B8ED-DC120390FD20}|AmoSave.Broking.UI.Auth\\AmoSave.Broking.UI.Auth.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui.auth\\customauthstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4645FB9-771D-41F6-B8ED-DC120390FD20}|AmoSave.Broking.UI.Auth\\AmoSave.Broking.UI.Auth.csproj|solutionrelative:amosave.broking.ui.auth\\customauthstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4645FB9-771D-41F6-B8ED-DC120390FD20}|AmoSave.Broking.UI.Auth\\AmoSave.Broking.UI.Auth.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4645FB9-771D-41F6-B8ED-DC120390FD20}|AmoSave.Broking.UI.Auth\\AmoSave.Broking.UI.Auth.csproj|solutionrelative:amosave.broking.ui.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\controllers\\smartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\controllers\\smartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543BC4CD-3E21-44AE-89C0-2BD156A8460D}|AmoSave.Broking.Models\\AmoSave.Broking.Models.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.models\\amosave.broking.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{543BC4CD-3E21-44AE-89C0-2BD156A8460D}|AmoSave.Broking.Models\\AmoSave.Broking.Models.csproj|solutionrelative:amosave.broking.models\\amosave.broking.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543BC4CD-3E21-44AE-89C0-2BD156A8460D}|AmoSave.Broking.Models\\AmoSave.Broking.Models.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.models\\client\\clientcoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543BC4CD-3E21-44AE-89C0-2BD156A8460D}|AmoSave.Broking.Models\\AmoSave.Broking.Models.csproj|solutionrelative:amosave.broking.models\\client\\clientcoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\amosave.broking.ui\\viewmodels\\sessionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB2C436-F274-4539-9481-7B768400AABB}|AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj|solutionrelative:amosave.broking.ui\\viewmodels\\sessionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D599945D-C73B-4D5A-BC71-3A209285B2B4}|AngelBroking\\AngelBroking.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\angelbroking\\smartapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D599945D-C73B-4D5A-BC71-3A209285B2B4}|AngelBroking\\AngelBroking.csproj|solutionrelative:angelbroking\\smartapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D599945D-C73B-4D5A-BC71-3A209285B2B4}|AngelBroking\\AngelBroking.csproj|c:\\users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\angelbroking\\angelbroking\\websocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D599945D-C73B-4D5A-BC71-3A209285B2B4}|AngelBroking\\AngelBroking.csproj|solutionrelative:angelbroking\\websocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthMessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Auth\\AuthMessageHandler.cs",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Auth\\AuthMessageHandler.cs",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Auth\\AuthMessageHandler.cs",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Auth\\AuthMessageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:33:07.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthMessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI.Auth\\AuthMessageHandler.cs",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI.Auth\\AuthMessageHandler.cs",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI.Auth\\AuthMessageHandler.cs",
+              "RelativeToolTip": "AmoSave.Broking.UI.Auth\\AuthMessageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:32:59.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Program.cs",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Program.cs",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:25:25.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T07:20:13.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T07:20:12.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T07:15:26.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T07:25:16.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T07:25:12.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T07:13:53.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaceOrder.razor",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Pages\\PlaceOrder.razor",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Components\\Pages\\PlaceOrder.razor",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Pages\\PlaceOrder.razor",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Components\\Pages\\PlaceOrder.razor",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T07:23:07.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAACkAAAAAAAAAAAAMwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T07:20:02.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\_Imports.razor",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T07:20:00.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\App.razor",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\App.razor",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T07:24:51.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Components\\Routes.razor",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T07:24:48.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomAuthStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Auth\\CustomAuthStateProvider.cs",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Auth\\CustomAuthStateProvider.cs",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Auth\\CustomAuthStateProvider.cs",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Auth\\CustomAuthStateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:31:27.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomAuthStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI.Auth\\CustomAuthStateProvider.cs",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI.Auth\\CustomAuthStateProvider.cs",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI.Auth\\CustomAuthStateProvider.cs",
+              "RelativeToolTip": "AmoSave.Broking.UI.Auth\\CustomAuthStateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:30:58.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI.Auth\\Program.cs",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI.Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI.Auth\\Program.cs",
+              "RelativeToolTip": "AmoSave.Broking.UI.Auth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:30:10.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\appsettings.json",
+              "RelativeToolTip": "AmoSave.Broking.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T07:25:21.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "AmoSave.Broking.UI\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:21:08.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SessionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\ViewModels\\SessionViewModel.cs",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\ViewModels\\SessionViewModel.cs",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\ViewModels\\SessionViewModel.cs",
+              "RelativeToolTip": "AmoSave.Broking.UI\\ViewModels\\SessionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:13:04.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClientCodeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.Models\\Client\\ClientCodeRequest.cs",
+              "RelativeDocumentMoniker": "AmoSave.Broking.Models\\Client\\ClientCodeRequest.cs",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.Models\\Client\\ClientCodeRequest.cs",
+              "RelativeToolTip": "AmoSave.Broking.Models\\Client\\ClientCodeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:06:58.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AmoSave.Broking.Models",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.Models\\AmoSave.Broking.Models.csproj",
+              "RelativeDocumentMoniker": "AmoSave.Broking.Models\\AmoSave.Broking.Models.csproj",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.Models\\AmoSave.Broking.Models.csproj",
+              "RelativeToolTip": "AmoSave.Broking.Models\\AmoSave.Broking.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T07:04:24.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SmartApiController.cs",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Controllers\\SmartApiController.cs",
+              "RelativeDocumentMoniker": "AmoSave.Broking.UI\\Controllers\\SmartApiController.cs",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\Controllers\\SmartApiController.cs",
+              "RelativeToolTip": "AmoSave.Broking.UI\\Controllers\\SmartApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:00:05.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WebSocket.cs",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AngelBroking\\WebSocket.cs",
+              "RelativeDocumentMoniker": "AngelBroking\\WebSocket.cs",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AngelBroking\\WebSocket.cs",
+              "RelativeToolTip": "AngelBroking\\WebSocket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:50:42.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SmartApi.cs",
+              "DocumentMoniker": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AngelBroking\\SmartApi.cs",
+              "RelativeDocumentMoniker": "AngelBroking\\SmartApi.cs",
+              "ToolTip": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AngelBroking\\SmartApi.cs",
+              "RelativeToolTip": "AngelBroking\\SmartApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4DAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:49:01.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

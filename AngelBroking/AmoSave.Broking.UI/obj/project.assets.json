@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AmoSave.Broking.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AmoSave.Broking.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AmoSave.Broking.Models.dll": {}
+        }
+      },
+      "AngelBroking/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AngelBroking.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AngelBroking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AmoSave.Broking.Models/1.0.0": {
+      "type": "project",
+      "path": "../AmoSave.Broking.Models/AmoSave.Broking.Models.csproj",
+      "msbuildProject": "../AmoSave.Broking.Models/AmoSave.Broking.Models.csproj"
+    },
+    "AngelBroking/1.0.0": {
+      "type": "project",
+      "path": "../AngelBroking/AngelBroking.csproj",
+      "msbuildProject": "../AngelBroking/AngelBroking.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AmoSave.Broking.Models >= 1.0.0",
+      "AngelBroking >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kchan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj",
+      "projectName": "AmoSave.Broking.UI",
+      "projectPath": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\AmoSave.Broking.UI.csproj",
+      "packagesPath": "C:\\Users\\kchan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kchan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.Models\\AmoSave.Broking.Models.csproj": {
+              "projectPath": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AmoSave.Broking.Models\\AmoSave.Broking.Models.csproj"
+            },
+            "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AngelBroking\\AngelBroking.csproj": {
+              "projectPath": "C:\\Users\\kchan\\source\\repos\\kosurucs\\smartapi-dotnet\\AngelBroking\\AngelBroking\\AngelBroking.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

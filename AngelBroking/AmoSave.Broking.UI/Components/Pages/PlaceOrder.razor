@@ -1,0 +1,142 @@
+﻿@page "/placeorder"
+@using AmoSave.Broking.UI.ViewModels
+@inject IHttpClientFactory ClientFactory
+
+<PageTitle>Place Order</PageTitle>
+
+<h3>Place Order</h3>
+
+<EditForm Model="@viewModel" OnValidSubmit="HandlePlaceOrder">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label>Trading Symbol</label>
+        <InputText class="form-control" @bind-Value="viewModel.TradingSymbol" />
+    </div>
+    <div class="mb-3">
+        <label>Symbol Token</label>
+        <InputText class="form-control" @bind-Value="viewModel.SymbolToken" />
+    </div>
+    <div class="mb-3">
+        <label>Exchange</label>
+        <InputText class="form-control" @bind-Value="viewModel.Exchange" />
+    </div>
+    <div class="mb-3">
+        <label>Transaction Type</label>
+        <InputText class="form-control" @bind-Value="viewModel.TransactionType" />
+    </div>
+    <div class="mb-3">
+        <label>Order Type</label>
+        <InputText class="form-control" @bind-Value="viewModel.OrderType" />
+    </div>
+    <div class="mb-3">
+        <label>Product Type</label>
+        <InputText class="form-control" @bind-Value="viewModel.ProductType" />
+    </div>
+    <div class="mb-3">
+        <label>Duration</label>
+        <InputText class="form-control" @bind-Value="viewModel.Duration" />
+    </div>
+    <div class="mb-3">
+        <label>Price</label>
+        <InputText class="form-control" @bind-Value="viewModel.Price" />
+    </div>
+    <div class="mb-3">
+        <label>Quantity</label>
+        <InputText class="form-control" @bind-Value="viewModel.Quantity" />
+    </div>
+    <button class="btn btn-primary" type="submit" disabled="@viewModel.IsLoading">Place Order</button>
+</EditForm>
+
+@if (viewModel.IsLoading)
+{
+    <p>Placing order...</p>
+}
+@if (!string.IsNullOrEmpty(viewModel.ErrorMessage))
+{
+    <div class="alert alert-danger">@viewModel.ErrorMessage</div>
+}
+@if (viewModel.IsSuccess)
+{
+    <div class="alert alert-success">
+        Order placed! Order ID: <code>@viewModel.OrderId</code>
+    </div>
+}
+
+@code {
+    private OrderViewModel viewModel = new();
+
+    private HttpClient Http => ClientFactory.CreateClient("AuthorizedClient");
+
+    private async Task HandlePlaceOrder()
+    {
+        viewModel.IsLoading = true;
+        viewModel.ErrorMessage = null;
+        viewModel.IsSuccess = false;
+
+        try
+        {
+            var orderInfo = new
+            {
+                tradingsymbol = viewModel.TradingSymbol,
+                symboltoken = viewModel.SymbolToken,
+                exchange = viewModel.Exchange,
+                transactiontype = viewModel.TransactionType,
+                ordertype = viewModel.OrderType,
+                producttype = viewModel.ProductType,
+                duration = viewModel.Duration,
+                price = viewModel.Price,
+                quantity = viewModel.Quantity
+            };
+
+            var response = await Http.PostAsJsonAsync("api/SmartApi/PlaceOrder", orderInfo);
+
+            if (response.IsSuccessStatusCode)
+            {
+                var result = await response.Content.ReadFromJsonAsync<OutputBaseClass>();
+                if (result != null && result.status && result.PlaceOrderResponse != null)
+                {
+                    viewModel.IsSuccess = true;
+                    viewModel.OrderId = result.PlaceOrderResponse.data?.orderid;
+                }
+                else
+                {
+                    viewModel.ErrorMessage = result?.http_error ?? "Unknown error";
+                }
+            }
+            else
+            {
+                viewModel.ErrorMessage = $"HTTP {response.StatusCode}";
+            }
+        }
+        catch (Exception ex)
+        {
+            viewModel.ErrorMessage = ex.Message;
+        }
+        finally
+        {
+            viewModel.IsLoading = false;
+        }
+    }
+
+    // OutputBaseClass should match your API's response structure
+    public class OutputBaseClass
+    {
+        public bool status { get; set; }
+        public string http_code { get; set; }
+        public string http_error { get; set; }
+        public PlaceOrderResponse? PlaceOrderResponse { get; set; }
+    }
+    public class PlaceOrderResponse
+    {
+        public PlaceOrderData? data { get; set; }
+        public bool status { get; set; }
+        public string message { get; set; }
+        public string errorcode { get; set; }
+    }
+    public class PlaceOrderData
+    {
+        public string orderid { get; set; }
+    }
+}

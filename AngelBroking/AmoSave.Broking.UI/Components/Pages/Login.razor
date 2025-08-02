@@ -1,0 +1,105 @@
+@page "/"
+@using AmoSave.Broking.UI.ViewModels
+@inject IHttpClientFactory ClientFactory
+@inject AmoSave.Broking.UI.Auth.CustomAuthStateProvider AuthProvider
+@inject NavigationManager Navigation
+
+<PageTitle>Login</PageTitle>
+
+<h3>Login</h3>
+
+<EditForm Model="@viewModel" OnValidSubmit="HandleLogin">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label>Client Code</label>
+        <InputText class="form-control" @bind-Value="viewModel.ClientCode" />
+    </div>
+    <div class="mb-3">
+        <label>Password</label>
+        <InputText class="form-control" @bind-Value="viewModel.Password" type="password" />
+    </div>
+    <button class="btn btn-primary" type="submit" disabled="@viewModel.IsLoading">Login</button>
+</EditForm>
+
+@if (viewModel.IsLoading)
+{
+    <p>Loading...</p>
+}
+@if (!string.IsNullOrEmpty(viewModel.ErrorMessage))
+{
+    <div class="alert alert-danger">@viewModel.ErrorMessage</div>
+}
+@if (viewModel.IsLoggedIn)
+{
+    <div class="alert alert-success">
+        Login successful!<br />
+        JWT Token: <code>@viewModel.JwtToken</code>
+    </div>
+}
+
+@code {
+    private SessionViewModel viewModel = new();
+
+    private HttpClient Http => ClientFactory.CreateClient("AuthorizedClient");
+
+    private async Task HandleLogin()
+    {
+        viewModel.IsLoading = true;
+        viewModel.ErrorMessage = null;
+
+        try
+        {
+            var response = await Http.PostAsJsonAsync("api/SmartApi/GenerateSession", new
+            {
+                ClientCode = viewModel.ClientCode,
+                Password = viewModel.Password
+            });
+
+            if (response.IsSuccessStatusCode)
+            {
+                var result = await response.Content.ReadFromJsonAsync<OutputBaseClass>();
+                if (result != null && result.status && result.TokenResponse != null)
+                {
+                    viewModel.IsLoggedIn = true;
+                    viewModel.JwtToken = result.TokenResponse.jwtToken;
+                    viewModel.RefreshToken = result.TokenResponse.refreshToken;
+                    AuthProvider.SetToken(viewModel.JwtToken); // Set authentication state
+                    Navigation.NavigateTo("/home"); // Redirect to a protected page
+                }
+                else
+                {
+                    viewModel.ErrorMessage = result?.http_error ?? "Unknown error";
+                }
+            }
+            else
+            {
+                viewModel.ErrorMessage = $"HTTP {response.StatusCode}";
+            }
+        }
+        catch (Exception ex)
+        {
+            viewModel.ErrorMessage = ex.Message;
+        }
+        finally
+        {
+            viewModel.IsLoading = false;
+        }
+    }
+
+    // OutputBaseClass should match your API's response structure
+    public class OutputBaseClass
+    {
+        public bool status { get; set; }
+        public string http_code { get; set; }
+        public string http_error { get; set; }
+        public AngelToken? TokenResponse { get; set; }
+    }
+    public class AngelToken
+    {
+        public string jwtToken { get; set; }
+        public string refreshToken { get; set; }
+        public string feedToken { get; set; }
+    }
+}

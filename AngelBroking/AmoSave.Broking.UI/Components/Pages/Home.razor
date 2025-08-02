@@ -1,0 +1,15 @@
+﻿@attribute [Authorize]
+@page "/home"
+@using Microsoft.AspNetCore.Authorization
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+@inject IHttpClientFactory ClientFactory
+
+@code {
+    private HttpClient Http => ClientFactory.CreateClient("AuthorizedClient");
+}

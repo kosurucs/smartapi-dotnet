@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AmoSave.Broking.UI.Auth/1.0.0": {
+        "runtime": {
+          "AmoSave.Broking.UI.Auth.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AmoSave.Broking.UI.Auth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

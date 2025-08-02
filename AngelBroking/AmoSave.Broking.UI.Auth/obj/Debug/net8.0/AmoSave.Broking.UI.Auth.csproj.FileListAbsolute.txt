@@ -1,0 +1,15 @@
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\bin\Debug\net8.0\AmoSave.Broking.UI.Auth.exe
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\bin\Debug\net8.0\AmoSave.Broking.UI.Auth.deps.json
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\bin\Debug\net8.0\AmoSave.Broking.UI.Auth.runtimeconfig.json
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\bin\Debug\net8.0\AmoSave.Broking.UI.Auth.dll
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\bin\Debug\net8.0\AmoSave.Broking.UI.Auth.pdb
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\obj\Debug\net8.0\AmoSave.Broking.UI.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\obj\Debug\net8.0\AmoSave.Broking.UI.Auth.AssemblyInfoInputs.cache
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\obj\Debug\net8.0\AmoSave.Broking.UI.Auth.AssemblyInfo.cs
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\obj\Debug\net8.0\AmoSave.Broking.UI.Auth.csproj.CoreCompileInputs.cache
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\obj\Debug\net8.0\AmoSave.Broking.UI.Auth.sourcelink.json
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\obj\Debug\net8.0\AmoSave.Broking.UI.Auth.dll
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\obj\Debug\net8.0\refint\AmoSave.Broking.UI.Auth.dll
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\obj\Debug\net8.0\AmoSave.Broking.UI.Auth.pdb
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\obj\Debug\net8.0\AmoSave.Broking.UI.Auth.genruntimeconfig.cache
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.UI.Auth\obj\Debug\net8.0\ref\AmoSave.Broking.UI.Auth.dll

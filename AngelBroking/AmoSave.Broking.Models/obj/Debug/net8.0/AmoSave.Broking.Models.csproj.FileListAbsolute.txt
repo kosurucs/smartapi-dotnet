@@ -1,0 +1,12 @@
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.Models\bin\Debug\net8.0\AmoSave.Broking.Models.deps.json
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.Models\bin\Debug\net8.0\AmoSave.Broking.Models.dll
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.Models\bin\Debug\net8.0\AmoSave.Broking.Models.pdb
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.Models\obj\Debug\net8.0\AmoSave.Broking.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.Models\obj\Debug\net8.0\AmoSave.Broking.Models.AssemblyInfoInputs.cache
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.Models\obj\Debug\net8.0\AmoSave.Broking.Models.AssemblyInfo.cs
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.Models\obj\Debug\net8.0\AmoSave.Broking.Models.csproj.CoreCompileInputs.cache
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.Models\obj\Debug\net8.0\AmoSave.Broking.Models.sourcelink.json
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.Models\obj\Debug\net8.0\AmoSave.Broking.Models.dll
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.Models\obj\Debug\net8.0\refint\AmoSave.Broking.Models.dll
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.Models\obj\Debug\net8.0\AmoSave.Broking.Models.pdb
+C:\Users\kchan\source\repos\kosurucs\smartapi-dotnet\AngelBroking\AmoSave.Broking.Models\obj\Debug\net8.0\ref\AmoSave.Broking.Models.dll
